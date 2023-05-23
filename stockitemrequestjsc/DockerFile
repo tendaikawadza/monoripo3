@@ -1,0 +1,4 @@
+FROM openjdk:11
+EXPOSE 8080
+ADD target/stockitemrequestjsc.jar stockitemrequest.jar
+ENTRYPOINT ["java","-jar","/stockitemrequest.jar"]

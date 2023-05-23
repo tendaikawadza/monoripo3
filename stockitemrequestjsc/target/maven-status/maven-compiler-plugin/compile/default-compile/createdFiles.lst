@@ -1,0 +1,5 @@
+StockItemRequest\StockItemRequestJSC\model\StockItemRequest.class
+StockItemRequest\StockItemRequestJSC\Service\StockItemRequestService.class
+StockItemRequest\StockItemRequestJSC\StockItemRequestJscApplication.class
+StockItemRequest\StockItemRequestJSC\Controller\StockItemController.class
+StockItemRequest\StockItemRequestJSC\Repo\StockItemRequestRepository.class
